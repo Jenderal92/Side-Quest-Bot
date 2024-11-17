@@ -8,8 +8,7 @@ Python 2.7
 
 
 Buy Coffee :
-<li>Bitcoin $: 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1</li>
-<li>Perfect Money $: U22270614</li>
+<li>Bitcoin $: 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</li>
 <li>Saweria $: https://saweria.co/Shin403</li>
 <li>Trakteer $: https://trakteer.id/shin403</li>
 <li>Buymeacoffee $: https://www.buymeacoffee.com/shin.code</li>
@@ -28,7 +27,7 @@ Buy Coffee :
 <li>Refresh the page and look for a network</li>
 <li> There you will see your ID and your Twitter account copy the ID value. and paste ur ID in pyscript</li>
 <li>Click on the request and go to the "Headers" section.</li>
-<li>Find the "Authorization" header and copy the bearer token value. and paste ur bearer in pyscript</li>
+<li>Find the "Authorization" header and copy the bearer token value. and paste ur 9bearer in pyscript</li>
 
 <li> Ah, let me explain, this tool doesn't directly connect your wallet, so connect your wallet manually!</li>
 
